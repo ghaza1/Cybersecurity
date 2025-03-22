@@ -76,7 +76,7 @@ Make sure you have the following installed:
 ![Signup](/attachments/signup.png)
 
 #### Login
-![login](/attachments/login.png)
+![login](/InfoSec%20Managment/Task2/attachments/login.png)
 
 #### Logout
 ![logout](/attachments/logout.png)
