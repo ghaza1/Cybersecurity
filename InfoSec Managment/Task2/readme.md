@@ -73,13 +73,13 @@ Make sure you have the following installed:
 | POST   | `/logout` | Logout and revoke the JWT token |
 
 #### Signup
-![Signup](InfoSec%20Managment/Task2/attachments/signup.png)
+![Signup](/InfoSec%20Managment/Task2/attachments/signup.png)
 
 #### Login
 ![login](/InfoSec%20Managment/Task2/attachments/login.png)
 
 #### Logout
-![logout](InfoSec%20Managment/Task2/attachments/logout.png)
+![logout](/InfoSec%20Managment/Task2/attachments/logout.png)
 
 
 ### User Management
@@ -87,7 +87,7 @@ Make sure you have the following installed:
 |--------|----------|-------------|
 | PUT    | `/users/<id>` | Update user details (name, password) |
 
-![update](InfoSec%20Managment/Task2/attachments/update.png)
+![update](/InfoSec%20Managment/Task2/attachments/update.png)
 
 ### Product Management
 | Method | Endpoint  | Description |
@@ -99,26 +99,26 @@ Make sure you have the following installed:
 | DELETE | `/products/<pid>` | Delete a product |
 
 #### Create Product
-![Create](InfoSec%20Managment/Task2/attachments/create.png)
+![Create](/InfoSec%20Managment/Task2/attachments/create.png)
 
 #### Retreive Products
-![Retreive](InfoSec%20Managment/Task2/attachments/Retreive.png)
+![Retreive](/InfoSec%20Managment/Task2/attachments/Retreive.png)
 
 #### Get Product
-![Get](InfoSec%20Managment/Task2/attachments/Get.png)
+![Get](/InfoSec%20Managment/Task2/attachments/Get.png)
 
 #### Update Product
-![Update](InfoSec%20Managment/Task2/attachments/updatep.png)
+![Update](/InfoSec%20Managment/Task2/attachments/updatep.png)
 
 #### Delete Product
-![delete](InfoSec%20Managment/Task2/attachments/delete.png)
+![delete](/InfoSec%20Managment/Task2/attachments/delete.png)
 
 ## JWT Authentication
 - Each request requiring authentication must include the JWT token in the `Authorization` header:
   ```bash
   Authorization: Bearer your_jwt_token
   ```
-  ![Auth](InfoSec%20Managment/Task2/attachments/Auth.png)
+  ![Auth](/InfoSec%20Managment/Task2/attachments/Auth.png)
 
 ## Error Handling
 - `404`: Resource not found
